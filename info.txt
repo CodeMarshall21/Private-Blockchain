@@ -1,0 +1,13 @@
+network id : 69696969
+
+node1 -> {
+    Public address of the key:   0x3D6390bD1f2d87dab82A47Dc2E3f144C9f579137
+    Password: 12345
+}
+
+node2 -> {
+    Public address of the key:   0x688924d6CBea8E202503562be53f87bD27380d75
+    Password: 12345
+}
+
+enode://abb011ed1a096419a7beed9845e486817863f5554839b41681f36afb3a3f2727f99c3a31eb788feea8ed2dafeb5360e85e8949468ee4a1ebe1169984e675d772@127.0.0.1:0?discport=30301
